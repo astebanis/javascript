@@ -1,5 +1,12 @@
 javascript
 ==========
 
-(test.js)[www.github.com/astebanis/javascript/blob/master/test.js]
+## about
+
+this is just a test
+
+## files
+
+* [test.js](github.com/astebanis/javascript/blob/master/test.js)
+
 
