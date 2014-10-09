@@ -21,4 +21,7 @@ $.getScript( 'https://raw.githubusercontent.com/astebanis/javascript/master/test
 ### links
 
 * [GitHub API v3 documentation](https://developer.github.com/v3/)
+* ["Pro Git" by Scott Chacon](http://git-scm.com/docs)
 * [Emojis, Markdown, etc.](https://developer.github.com/v3/misc/)
+* ["Git data"](https://developer.github.com/v3/git/)
+
