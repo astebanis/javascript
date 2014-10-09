@@ -10,6 +10,6 @@ this is just a test
 * [test.js]
 * [/test.js]
 * (test.js)
-* https://github.com/astebanis/javascript/blob/master/test.js
+* [test.js](https://github.com/astebanis/javascript/blob/master/test.js)
 * [www.github.com/astebanis/javascript/blob/master/test.js]
 
