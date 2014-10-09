@@ -1,5 +1,5 @@
 javascript
 ==========
 
-* test
+https://github.com/astebanis/javascript/test.js
 
