@@ -7,6 +7,6 @@ this is just a test
 
 ## files
 
-* (test.js)
+* [test.js]
 
 
