@@ -9,6 +9,7 @@ var test = new function() {
       this.fail( 'jquery not found' );
 };
 
+// http://api.jquery.com/jQuery.ajax/
 // https://developer.github.com/v3/
 
 test.run = function( file ) {
