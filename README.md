@@ -1,6 +1,6 @@
 ### about
 
-just testing github functionality with some javascript snippets... :zzz:
+testing github api functionality with some javascript snippets... :zzz:
 
 ### usage
 
