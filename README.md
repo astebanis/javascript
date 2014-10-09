@@ -1,22 +1,19 @@
-javascript
-==========
-
-## about
+### about
 
 just testing github functionality with some javascript snippets... :zzz:
 
 * see also [the project wiki](https://github.com/astebanis/javascript/wiki)
 
-## usage
+### usage
 
-### include script
+#### include script
 ```html
 <script type="text/javascript"
   src="https://raw.githubusercontent.com/astebanis/javascript/master/test.js"
 ></script>
 ```
 
-### use script
+#### use script
 ```javascript
 var test = new Test();
 test.run( { success : function() {
@@ -24,9 +21,8 @@ test.run( { success : function() {
 } } );
 ```
 
-## files
+### files
 
 * [test.js](https://github.com/astebanis/javascript/blob/master/test.js)
-* [main.js](https://github.com/astebanis/javascript/blob/master/main.js)
 * ...
 
