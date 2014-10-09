@@ -1,6 +1,5 @@
 javascript
 ==========
 
-(test.js)[/astebanis/javascript/blob/master/test.js]
-
+(test.js)[https://github.com/astebanis/javascript/blob/master/test.js]
 
