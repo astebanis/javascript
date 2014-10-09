@@ -3,13 +3,10 @@ javascript
 
 ## about
 
-this is just a test
+just testing github functionality with some javascript snippets...
 
 ## files
 
-* [test.js]
-* [/test.js]
-* (test.js)
+* [main.js](https://github.com/astebanis/javascript/blob/master/main.js)
 * [test.js](https://github.com/astebanis/javascript/blob/master/test.js)
-* [www.github.com/astebanis/javascript/blob/master/test.js]
 
